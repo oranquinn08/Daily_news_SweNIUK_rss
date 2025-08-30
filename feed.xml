@@ -5,7 +5,7 @@
     <link>https://oranquinn08.github.io/Daily_news_SweNIUK_rss/</link>
     <description><![CDATA[Twice-daily top headlines from Sweden, Northern Ireland & UK (09:00 & 18:00)]]></description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Aug 2025 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 20:10:00 GMT</lastBuildDate>
 
     <item>
       <title>Sweden: Government announces new energy policy</title>
@@ -30,12 +30,23 @@
       <pubDate>Sat, 30 Aug 2025 09:00:00 GMT</pubDate>
       <guid>https://www.theguardian.com/business/2025/aug/30/uk-inflation-falls-lowest-3-years</guid>
     </item>
+
+    <!-- First test notification -->
     <item>
       <title>TEST NOTIFICATION: Feed update check</title>
       <link>https://example.com/test-notification</link>
       <description><![CDATA[This is a test item to make sure IFTTT is sending notifications properly.]]></description>
       <pubDate>Sat, 30 Aug 2025 19:45:00 GMT</pubDate>
       <guid>test-notification-2025-08-30-1945</guid>
+    </item>
+
+    <!-- Second test notification -->
+    <item>
+      <title>TEST NOTIFICATION 2: Second update check</title>
+      <link>https://example.com/test-notification-2</link>
+      <description><![CDATA[This is the second test item to verify multiple IFTTT notifications.]]></description>
+      <pubDate>Sat, 30 Aug 2025 20:05:00 GMT</pubDate>
+      <guid>test-notification-2025-08-30-2005</guid>
     </item>
 
   </channel>
