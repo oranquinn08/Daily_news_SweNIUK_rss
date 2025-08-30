@@ -1,18 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Daily News - TEST UPDATE</title>
+    <title>Daily News - Sweden, Northern Ireland &amp; UK</title>
     <link>https://oranquinn08.github.io/Daily_news_SweNIUK_rss/</link>
-    <description><![CDATA[Test update for IFTTT notifications.]]></description>
+    <description><![CDATA[Twice-daily top headlines from Sweden, Northern Ireland & UK (09:00 & 18:00)]]></description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Aug 2025 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 09:00:00 GMT</lastBuildDate>
 
     <item>
-      <title>TEST: This is a sample headline</title>
-      <link>https://example.com/test-article</link>
-      <description><![CDATA[This is just a test description to trigger IFTTT notifications.]]></description>
-      <pubDate>Sat, 30 Aug 2025 18:00:00 GMT</pubDate>
-      <guid>https://example.com/test-article</guid>
+      <title>Sweden: Government announces new energy policy</title>
+      <link>https://www.thelocal.se/20250830/sweden-government-announces-new-energy-policy/</link>
+      <description><![CDATA[Sweden unveils major reforms in its national energy strategy, focusing on renewables and nuclear expansion.]]></description>
+      <pubDate>Sat, 30 Aug 2025 09:00:00 GMT</pubDate>
+      <guid>https://www.thelocal.se/20250830/sweden-government-announces-new-energy-policy/</guid>
+    </item>
+
+    <item>
+      <title>Northern Ireland: Talks resume at Stormont</title>
+      <link>https://www.bbc.com/news/uk-northern-ireland-666</link>
+      <description><![CDATA[Power-sharing negotiations resume in Belfast amid renewed calls for compromise between parties.]]></description>
+      <pubDate>Sat, 30 Aug 2025 09:00:00 GMT</pubDate>
+      <guid>https://www.bbc.com/news/uk-northern-ireland-666</guid>
+    </item>
+
+    <item>
+      <title>UK: Inflation falls to lowest level in 3 years</title>
+      <link>https://www.theguardian.com/business/2025/aug/30/uk-inflation-falls-lowest-3-years</link>
+      <description><![CDATA[UK inflation drops below 2%, raising hopes for an interest rate cut later this year.]]></description>
+      <pubDate>Sat, 30 Aug 2025 09:00:00 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2025/aug/30/uk-inflation-falls-lowest-3-years</guid>
     </item>
 
   </channel>
